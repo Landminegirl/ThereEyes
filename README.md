@@ -7,6 +7,8 @@ you know you want custom eyes ;)
 
 SO, its a little bit annoying but worth it
 
+THESE EYES ARE UPLOADED AS A 1 NODE PROP SO YOULL NEED PREVIEWER AND NOT STYLE GUIDE TO MAKE THEM.
+
 STEP 1: GO TO A SPA AND LOOK AT HOW FAR APART YOUR EYE DISTANCE IS ON THE SLIDER, ITS IMPORTANT (take a screnshot if you need <3)
 
 STEP 2: Open EyeMakerLayout.Blend
