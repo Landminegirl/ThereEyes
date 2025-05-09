@@ -12,6 +12,7 @@ STEP 1: GO TO A SPA AND LOOK AT HOW FAR APART YOUR EYE DISTANCE IS ON THE SLIDER
 STEP 2: Open EyeMakerLayout.Blend
 
 STEP 3: Click on LOD0.001 under Head
+
 ![Image](https://github.com/user-attachments/assets/38b27093-39b2-48ad-8818-c90495aa04be)
 
 
